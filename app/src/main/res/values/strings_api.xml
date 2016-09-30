@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 보안 -->
+    <string name="security_key">APPCRYPTKEY</string>
+    <string name="security_iv">APPBASEKEYIV</string>
+
+    <!-- 어플 정보 관리 통합 API -->
+    <string name="url_api_app_info_json">http://api.0app0.com/api/app_info.asp?app_ver_code=%1$d&amp;pkgname=%2$s&amp;market=%3$s</string>
+    
+    <!-- 인트로/종료 팝업 분기 처리 API, 접속통계 API -->
+    <string name="url_api_warter_intro_json">http://water.munja365.co.kr/API/water_intro.asp?app_ver_code=%1$d&amp;pkgname=%2$s&amp;market=%3$s&amp;device_id=%4$s</string>
+
+    <!-- GCM -->
+    <string name="url_connected_push_log">http://app.bell365.com/gcm/push_connected.asp?push_id=%1$s</string>
+    <string name="url_received_push_log">http://app.bell365.com/gcm/push_receive.asp?push_id=%1$s</string>
+    
+    <!-- 배너통계 -->
+    <string name="url_api_banner_click_log">http://water.munja365.co.kr/API/banner_click.asp?banner_id=%1$d</string>
+    
+
+</resources>

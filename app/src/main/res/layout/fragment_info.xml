@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/input_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#e9ebe6"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_marginTop="17.5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="92dp"
+                android:layout_height="35dp"
+                android:background="@drawable/bmi_table_tit_bg"
+                android:gravity="center"
+                android:tag="my_info_sex"
+                android:text="@string/my_info_sex"
+                android:textColor="#000000" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:layout_marginLeft="12dp"
+                android:layout_weight="1"
+                android:background="@drawable/bmi_table_txt_bg"
+                android:orientation="horizontal" >
+
+                <RadioGroup
+                    android:id="@+id/sexual_radio_group"
+                    android:layout_width="wrap_content"
+                    android:layout_height="27.5dp"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/radio_woman"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="32dp"
+                        android:layout_marginTop="7dp"
+                        android:button="@drawable/selector_radio_btn"
+                        android:checked="true"
+                        android:tag="my_info_woman"
+                        android:text="@string/my_info_woman"
+                        android:textColor="#404040" />
+
+                    <RadioButton
+                        android:id="@+id/radio_man"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginTop="7dp"
+                        android:button="@drawable/selector_radio_btn"
+                        android:checked="false"
+                        android:tag="my_info_man"
+                        android:text="@string/my_info_man"
+                        android:textColor="#404040" />
+                </RadioGroup>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text=""
+                android:textColor="#696969"
+                android:textSize="15dp"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_marginTop="7.5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="92dp"
+                android:layout_height="35dp"
+                android:background="@drawable/bmi_table_tit_bg"
+                android:gravity="center"
+                android:tag="my_info_age"
+                android:text="@string/my_info_age"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/edit_birthday"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_weight="1"
+                android:background="@drawable/bmi_table_txt_bg"
+                android:gravity="center"
+                android:inputType="number"
+                android:maxLength="3" />
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text=""
+                android:textColor="#696969"
+                android:textSize="15dp"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_marginTop="7.5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="92dp"
+                android:layout_height="35dp"
+                android:background="@drawable/bmi_table_tit_bg"
+                android:gravity="center"
+                android:tag="my_info_height"
+                android:text="@string/my_info_height"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/edit_height"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_weight="1"
+                android:background="@drawable/bmi_table_txt_bg"
+                android:gravity="center"
+                android:inputType="number"
+                android:maxLength="3" />
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="cm"
+                android:textColor="#696969"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_marginTop="7.5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="92dp"
+                android:layout_height="35dp"
+                android:background="@drawable/bmi_table_tit_bg"
+                android:gravity="center"
+                android:tag="my_info_weight"
+                android:text="@string/my_info_weight"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/edit_weight"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_weight="1"
+                android:background="@drawable/bmi_table_txt_bg"
+                android:gravity="center"
+                android:inputType="numberDecimal"
+                android:maxLength="6" />
+
+            <TextView
+                android:id="@+id/text_height_kg"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="5dp"
+                android:text="kg"
+                android:textColor="#696969"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_marginTop="7.5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="92dp"
+                android:layout_height="35dp"
+                android:background="@drawable/bmi_table_tit_bg"
+                android:gravity="center"
+                android:tag="my_info_goal_weight"
+                android:text="@string/my_info_goal_weight"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/edit_goal_height"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_weight="1"
+                android:background="@drawable/bmi_table_txt_bg"
+                android:gravity="center"
+                android:inputType="numberDecimal"
+                android:maxLength="6" />
+
+            <TextView
+                android:id="@+id/text_goal_height_kg"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="5dp"
+                android:text="kg"
+                android:textColor="#696969"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13dp"
+            android:layout_marginTop="21dp"
+            android:tag="my_info_text_bmi"
+            android:text="@string/my_info_text_bmi"
+            android:textColor="#696969" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="9dp"
+            android:layout_marginLeft="13.5dp"
+            android:layout_marginRight="13.5dp" >
+
+            <Button
+                android:id="@+id/measure_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/btn_bottom_bg"
+                android:tag="my_info_water_result"
+                android:text="@string/my_info_water_result"
+                android:textColor="#2c5543"
+                android:textSize="8pt" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/result_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#f6f7f5"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <ScrollView
+            android:id="@+id/scrollview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="#e9ebe6"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="76.5dp"
+                    android:background="#dfe0df"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginTop="8.5dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="30dp"
+                            android:layout_marginLeft="30dp"
+                            android:tag="my_info_day_goal"
+                            android:text="@string/my_info_day_goal"
+                            android:textColor="#404040"
+                            android:textSize="18sp" />
+
+                        <EditText
+                            android:id="@+id/day_goal_water"
+                            android:layout_width="186dp"
+                            android:layout_height="35dp"
+                            android:layout_marginLeft="8.5dp"
+                            android:background="@drawable/input_box"
+                            android:gravity="center"
+                            android:imeOptions="actionDone"
+                            android:inputType="number"
+                            android:maxLength="6"
+                            android:singleLine="true" />
+
+                        <TextView
+                            android:id="@+id/water_measure"
+                            android:layout_width="50dp"
+                            android:layout_height="30dp"
+                            android:layout_marginLeft="8.5dp"
+                            android:text="ml"
+                            android:textColor="#404040"
+                            android:textSize="18sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="5dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="30dp"
+                            android:tag="my_info_day_avg1"
+                            android:text="@string/my_info_day_avg1"
+                            android:textColor="#656565" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" " />
+
+                        <TextView
+                            android:id="@+id/text_day_avg_water"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=""
+                            android:textColor="#ff3346" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" " />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:tag="my_info_day_avg2"
+                            android:text="@string/my_info_day_avg2"
+                            android:textColor="#656565" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#f6f7f5"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="13.5dp"
+                        android:layout_marginTop="10.5dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:tag="my_info_bmi_result1"
+                            android:text="@string/my_info_bmi_result1"
+                            android:textColor="#f04e34"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" " />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:tag="my_info_bmi_result2"
+                            android:text="@string/my_info_bmi_result2"
+                            android:textColor="#000000"
+                            android:textSize="18sp" />
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="7dp"
+                        android:layout_marginTop="14dp"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:id="@+id/fragment_bmi_graph_imageview"
+                            android:layout_width="fill_parent"
+                            android:layout_height="36dp"
+                            android:background="@drawable/bmi_graph" />
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:paddingBottom="0dp"
+                            android:paddingLeft="12.5dp"
+                            android:paddingRight="12.5dp"
+                            android:paddingTop="0dp" >
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:orientation="horizontal" >
+
+                                <TextView
+                                    android:id="@+id/fragment_bmi_graph_text1"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="36dp"
+                                    android:gravity="center"
+                                    android:tag="my_info_under"
+                                    android:text="@string/my_info_under"
+                                    android:textColor="#292929"
+                                    android:textSize="10sp" />
+
+                                <RelativeLayout
+                                    android:id="@+id/fragment_bmi_graph_icon_layout1"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="26dp" >
+
+                                    <ImageView
+                                        android:id="@+id/fragment_bmi_graph_icon1"
+                                        android:layout_width="18dp"
+                                        android:layout_height="18dp"
+                                        android:background="@drawable/bmi_ico_stick" />
+                                </RelativeLayout>
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@+id/fragment_bmi_graph_icon_layout1"
+                                    android:gravity="right"
+                                    android:text="18.5"
+                                    android:textColor="#000000"
+                                    android:textSize="10sp" />
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:orientation="horizontal" >
+
+                                <TextView
+                                    android:id="@+id/fragment_bmi_graph_text2"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="36dp"
+                                    android:gravity="center"
+                                    android:tag="my_info_good"
+                                    android:text="@string/my_info_good"
+                                    android:textColor="#292929"
+                                    android:textSize="10sp" />
+
+                                <RelativeLayout
+                                    android:id="@+id/fragment_bmi_graph_icon_layout2"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="26dp" >
+
+                                    <ImageView
+                                        android:id="@+id/fragment_bmi_graph_icon2"
+                                        android:layout_width="18dp"
+                                        android:layout_height="18dp"
+                                        android:background="@drawable/bmi_ico_stick" />
+                                </RelativeLayout>
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@+id/fragment_bmi_graph_icon_layout2"
+                                    android:gravity="right"
+                                    android:text="23"
+                                    android:textColor="#000000"
+                                    android:textSize="10sp" />
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:orientation="horizontal" >
+
+                                <TextView
+                                    android:id="@+id/fragment_bmi_graph_text3"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="36dp"
+                                    android:gravity="center"
+                                    android:tag="my_info_over"
+                                    android:text="@string/my_info_over"
+                                    android:textColor="#292929"
+                                    android:textSize="10sp" />
+
+                                <RelativeLayout
+                                    android:id="@+id/fragment_bmi_graph_icon_layout3"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="26dp" >
+
+                                    <ImageView
+                                        android:id="@+id/fragment_bmi_graph_icon3"
+                                        android:layout_width="18dp"
+                                        android:layout_height="18dp"
+                                        android:background="@drawable/bmi_ico_stick" />
+                                </RelativeLayout>
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@+id/fragment_bmi_graph_icon_layout3"
+                                    android:gravity="right"
+                                    android:text="25"
+                                    android:textColor="#000000"
+                                    android:textSize="10sp" />
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:orientation="horizontal" >
+
+                                <TextView
+                                    android:id="@+id/fragment_bmi_graph_text4"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="36dp"
+                                    android:gravity="center"
+                                    android:tag="my_info_obese"
+                                    android:text="@string/my_info_obese"
+                                    android:textColor="#292929"
+                                    android:textSize="10sp" />
+
+                                <RelativeLayout
+                                    android:id="@+id/fragment_bmi_graph_icon_layout4"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="26dp" >
+
+                                    <ImageView
+                                        android:id="@+id/fragment_bmi_graph_icon4"
+                                        android:layout_width="18dp"
+                                        android:layout_height="18dp"
+                                        android:background="@drawable/bmi_ico_stick" />
+                                </RelativeLayout>
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@+id/fragment_bmi_graph_icon_layout4"
+                                    android:gravity="right"
+                                    android:text="30"
+                                    android:textColor="#000000"
+                                    android:textSize="10sp" />
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:orientation="horizontal" >
+
+                                <TextView
+                                    android:id="@+id/fragment_bmi_graph_text5"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="36dp"
+                                    android:gravity="center"
+                                    android:tag="my_info_fat"
+                                    android:text="@string/my_info_fat"
+                                    android:textColor="#292929"
+                                    android:textSize="10sp" />
+
+                                <RelativeLayout
+                                    android:id="@+id/fragment_bmi_graph_icon_layout5"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="26dp" >
+
+                                    <ImageView
+                                        android:id="@+id/fragment_bmi_graph_icon5"
+                                        android:layout_width="18dp"
+                                        android:layout_height="18dp"
+                                        android:background="@drawable/bmi_ico_stick" />
+                                </RelativeLayout>
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@+id/fragment_bmi_graph_icon_layout5"
+                                    android:gravity="right"
+                                    android:textColor="#000000"
+                                    android:textSize="10sp" />
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="13.5dp"
+                        android:layout_marginRight="13.5dp"
+                        android:layout_marginTop="7.5dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/bmi_ico_result" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:tag="my_info_bmi_text1"
+                            android:text="@string/my_info_bmi_text1"
+                            android:textColor="#4c4d70" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" " />
+
+                        <TextView
+                            android:id="@+id/bmi_value"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="#4c4d70" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:tag="my_info_bmi_text2"
+                            android:text="@string/my_info_bmi_text2"
+                            android:textColor="#4c4d70" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" " />
+
+                        <TextView
+                            android:id="@+id/bmi_grade"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="#ef5b3d" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:tag="my_info_bmi_text3"
+                            android:text="@string/my_info_bmi_text3"
+                            android:textColor="#4c4d70" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="5dp"
+                    android:background="#f6f7f5" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:background="#c6c8c3" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="6dp"
+                    android:background="#ebeceb"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="13.5dp"
+                        android:tag="my_info_bmi1"
+                        android:text="@string/my_info_bmi1"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:id="@+id/info_bmi2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="13.5dp"
+                        android:tag="my_info_bmi2"
+                        android:text="@string/my_info_bmi2"
+                        android:textColor="#656565" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="13.5dp"
+                        android:layout_marginRight="13.5dp"
+                        android:layout_marginTop="14dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="92dp"
+                            android:layout_height="35dp"
+                            android:background="@drawable/bmi_table_tit_bg"
+                            android:gravity="center"
+                            android:tag="my_info_weight_normal"
+                            android:text="@string/my_info_weight_normal"
+                            android:textColor="#000000" />
+
+                        <FrameLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/text_basic_weight"
+                                android:layout_width="fill_parent"
+                                android:layout_height="35dp"
+                                android:layout_marginLeft="2dp"
+                                android:background="@drawable/bmi_table_txt_bg"
+                                android:gravity="center"
+                                android:textColor="#000000" />
+
+                            <TextView
+                                android:id="@+id/text_basic_weight_kg"
+                                android:layout_width="fill_parent"
+                                android:layout_height="25dp"
+                                android:layout_marginLeft="100dp"
+                                android:layout_marginRight="13dp"
+                                android:layout_marginTop="8.5dp"
+                                android:gravity="right"
+                                android:text="kg"
+                                android:textColor="#000000" />
+                        </FrameLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="13.5dp"
+                        android:layout_marginRight="13.5dp"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="92dp"
+                            android:layout_height="35dp"
+                            android:background="@drawable/bmi_table_tit_bg"
+                            android:gravity="center"
+                            android:tag="my_info_weight_over"
+                            android:text="@string/my_info_weight_over"
+                            android:textColor="#000000" />
+
+                        <FrameLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/text_control_weight"
+                                android:layout_width="fill_parent"
+                                android:layout_height="35dp"
+                                android:layout_marginLeft="2dp"
+                                android:background="@drawable/bmi_table_txt_bg"
+                                android:gravity="center"
+                                android:textColor="#000000" />
+
+                            <TextView
+                                android:id="@+id/text_control_weight_kg"
+                                android:layout_width="fill_parent"
+                                android:layout_height="25dp"
+                                android:layout_marginLeft="100dp"
+                                android:layout_marginRight="13dp"
+                                android:layout_marginTop="8.5dp"
+                                android:gravity="right"
+                                android:text="kg"
+                                android:textColor="#000000" />
+                        </FrameLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="13.5dp"
+                        android:layout_marginRight="13.5dp"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="92dp"
+                            android:layout_height="35dp"
+                            android:background="@drawable/bmi_table_tit_bg"
+                            android:gravity="center"
+                            android:tag="my_info_weight_beauty"
+                            android:text="@string/my_info_weight_beauty"
+                            android:textColor="#000000" />
+
+                        <FrameLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/text_beauty_weight"
+                                android:layout_width="fill_parent"
+                                android:layout_height="35dp"
+                                android:layout_marginLeft="2dp"
+                                android:background="@drawable/bmi_table_txt_bg"
+                                android:gravity="center"
+                                android:textColor="#000000" />
+
+                            <TextView
+                                android:id="@+id/text_beauty_weight_kg"
+                                android:layout_width="fill_parent"
+                                android:layout_height="25dp"
+                                android:layout_marginLeft="100dp"
+                                android:layout_marginRight="13dp"
+                                android:layout_marginTop="8.5dp"
+                                android:gravity="right"
+                                android:text="kg"
+                                android:textColor="#000000" />
+                        </FrameLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="13.5dp"
+                        android:layout_marginRight="13.5dp"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="92dp"
+                            android:layout_height="35dp"
+                            android:background="@drawable/bmi_table_tit_bg"
+                            android:gravity="center"
+                            android:tag="my_info_weight_bmr"
+                            android:text="@string/my_info_weight_bmr"
+                            android:textColor="#000000" />
+
+                        <FrameLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/text_basic_metabolism_weight"
+                                android:layout_width="fill_parent"
+                                android:layout_height="35dp"
+                                android:layout_marginLeft="2dp"
+                                android:background="@drawable/bmi_table_txt_bg"
+                                android:gravity="center"
+                                android:textColor="#000000" />
+
+                            <TextView
+                                android:id="@+id/text_basic_metabolism_weight_kg"
+                                android:layout_width="fill_parent"
+                                android:layout_height="25dp"
+                                android:layout_marginLeft="100dp"
+                                android:layout_marginRight="13dp"
+                                android:layout_marginTop="8.5dp"
+                                android:gravity="right"
+                                android:text="kcal"
+                                android:textColor="#000000" />
+                        </FrameLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="9dp"
+                    android:layout_marginLeft="13.5dp"
+                    android:layout_marginRight="13.5dp"
+                    android:layout_marginTop="14dp" >
+
+                    <Button
+                        android:id="@+id/measure_redo_button"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:background="@drawable/btn_bottom_bg"
+                        android:tag="my_info_redo"
+                        android:text="@string/my_info_redo"
+                        android:textColor="#545972"
+                        android:textSize="8pt" />
+                </RelativeLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

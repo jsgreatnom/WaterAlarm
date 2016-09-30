@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#ffffff" >
+    
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:gravity="left"
+        android:tag="water_alarm_time_setting"
+        android:text="@string/water_alarm_time_setting"
+        android:textColor="#000000"
+        android:textSize="15sp"
+        />
+    
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="5dp"
+        android:background="#6bbcdd"/>
+
+    
+    <TimePicker
+        android:id="@+id/water_time_picker"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+    </TimePicker>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+        
+        <Button 
+            android:id="@+id/water_sun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="water_alarm_sun"
+            android:text="@string/water_alarm_sun" />
+        <Button 
+            android:id="@+id/water_mon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="water_alarm_mon"
+            android:text="@string/water_alarm_mon" />
+        <Button 
+            android:id="@+id/water_tue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="water_alarm_tue"
+            android:text="@string/water_alarm_tue" />
+        <Button 
+            android:id="@+id/water_wed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="water_alarm_wed"
+            android:text="@string/water_alarm_wed" />
+        <Button 
+            android:id="@+id/water_thu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="water_alarm_thu"
+            android:text="@string/water_alarm_thu" />
+        <Button 
+            android:id="@+id/water_fri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="water_alarm_fri"
+            android:text="@string/water_alarm_fri" />
+        <Button 
+            android:id="@+id/water_sat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="water_alarm_sat"
+            android:text="@string/water_alarm_sat" />
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+        
+        <Button 
+            android:id="@+id/water_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="common_cancle"
+            android:text="@string/common_cancle" />
+        
+        <Button 
+            android:id="@+id/water_save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="water_alarm_save"
+            android:text="@string/water_alarm_save" />
+        
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_wave_coffee.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_wave_coffee.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\graph_weight_bottom_bg.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\graph_weight_bottom_bg.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_cup.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_cup.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\select_icon.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\select_icon.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_end.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_end.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_wave_tea.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_wave_tea.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alarm_setup_tit_bg.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\alarm_setup_tit_bg.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_alcohol.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_alcohol.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_can.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_can.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_cup_ico_bottle.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_cup_ico_bottle.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_bg.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_bg.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gcm_icon.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\gcm_icon.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alarm_setup_bg_off.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\alarm_setup_bg_off.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alarm_arrow_next.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\alarm_arrow_next.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\box_check_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\box_check_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_cup_ico_can.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_cup_ico_can.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bmi_ico_stick.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\bmi_ico_stick.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_cup_ico_coffee.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_cup_ico_coffee.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_close_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_close_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_bottom_on.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_bottom_on.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_bottom_off.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_bottom_off.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\input_box.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\input_box.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_pm_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_pm_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bmi_table_tit_bg.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\bmi_table_tit_bg.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\thumbnail_bg.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\thumbnail_bg.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_cup_ico_tumbler.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_cup_ico_tumbler.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_am_on1.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_am_on1.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_wave_beverage.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_wave_beverage.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\powered_by_google_light.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_tea.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_tea.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_caffeine.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_caffeine.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_icon.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\text_icon.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_alarm_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_alarm_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_small_off_client.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_bottle.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_bottle.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_mugcup.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_mugcup.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\water_intake_bar.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\water_intake_bar.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_cup_ico_pet.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_cup_ico_pet.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\graph_bg.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\graph_bg.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_btn_all_del_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_btn_all_del_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_del_ico.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_del_ico.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_cancel.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_cancel.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_milk.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_milk.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calendar_succes_ico.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\calendar_succes_ico.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_standard_off_client.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_medium_off_client.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bmi_table_txt_bg.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\bmi_table_txt_bg.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_cup_ico_milk.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_cup_ico_milk.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_del_ico.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_del_ico.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_am_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_am_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_close_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_close_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_cup_ico_beer.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_cup_ico_beer.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\intro.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\intro.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\powered_by_google_dark.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_sound.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_sound.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_wave_beer.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_wave_beer.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_btn_all_del_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_btn_all_del_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_menu_line.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\tab_menu_line.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_cup_ico_pet.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_cup_ico_pet.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_ok_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_ok_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calendar_bg1.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\calendar_bg1.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_beer.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_beer.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_drink_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_drink_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_coffee.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_coffee.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_pm_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_pm_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\check_box.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\check_box.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_cup_ico_tumbler.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_cup_ico_tumbler.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_wave_water.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_wave_water.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_close2.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_close2.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bmi_ico_result.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\bmi_ico_result.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_milk.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_milk.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bmi_graph.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\bmi_graph.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alarm_setup_bg_on.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\alarm_setup_bg_on.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_ok_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_ok_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_cup_ico_beer.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_cup_ico_beer.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_water.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_water.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\top_btn_setup_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\top_btn_setup_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_alarm_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_alarm_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_am_off1.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_am_off1.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\graph_dotted_pink_line.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\graph_dotted_pink_line.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_cup_ico_milk.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_cup_ico_milk.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\graph_dotted_blue_line.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\graph_dotted_blue_line.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\water_intake_bg.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\water_intake_bg.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\weight_date_bg.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\weight_date_bg.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\graph_weight_top_bg.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\graph_weight_top_bg.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_tall_off_client.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\top_btn_before_on.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\top_btn_before_on.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_radio_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\side_bar_shadow.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\side_bar_shadow.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_beverage.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_beverage.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_cup_ico_coffee.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_cup_ico_coffee.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_add.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_add.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\direct_input_line.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\direct_input_line.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_cup_ico_can.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_cup_ico_can.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_wave_milk.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_wave_milk.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_beer.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_beer.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calendar_bg2.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\calendar_bg2.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_cup_ico_mugcup.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_cup_ico_mugcup.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_coffee.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_coffee.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_next.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\arrow_next.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_success_img.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_success_img.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gragh_ico_circle.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\gragh_ico_circle.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\top_btn_setup_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\top_btn_setup_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\bg.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_prev.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\arrow_prev.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_am_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_am_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_tumbler.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_tumbler.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_top_bg.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_top_bg.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_cup_ico_cup.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_cup_ico_cup.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_small.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_small.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_cup_ico_mugcup.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_cup_ico_mugcup.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ad_close.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ad_close.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banner_bg2.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\banner_bg2.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\select_box.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\select_box.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_cup_ico_cup.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\popup_cup_ico_cup.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_menu_line_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\tab_menu_line_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_bg.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_bg.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_alarm_confirm.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\ico_alarm_confirm.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_bottom_bg.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_bottom_bg.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\check_ico.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\check_ico.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\box_check_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\box_check_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_cup_ico_bottle.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\list_cup_ico_bottle.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\volume.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\volume.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calendar_fail_ico.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\calendar_fail_ico.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\top_btn_before_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\top_btn_before_off.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_omniherb.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\icon_omniherb.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_ico_pet.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_ico_pet.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cup_wave_omniherb.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\cup_wave_omniherb.png"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_drink_off.png",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable-xhdpi\\btn_drink_off.png"
+    }
+]

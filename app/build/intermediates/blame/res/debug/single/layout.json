@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_water_item.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\dialog_water_item.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_history.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\dialog_history.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_statistic_drink_calendar.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_statistic_drink_calendar.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drink_list.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\activity_drink_list.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_statics_kind_calendar.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_statics_kind_calendar.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_drink_cup.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_drink_cup.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_alarm_volume_control.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\dialog_alarm_volume_control.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_item.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_menu_tab.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_menu_tab.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_kind_month_calendar.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_kind_month_calendar.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_base.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_weight_month_calendar.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_weight_month_calendar.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_water_sound_setting.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\activity_water_sound_setting.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment_main.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\activity_fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_notification_gcm_bigpictrestyle.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_notification_gcm_bigpictrestyle.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_drink.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\fragment_drink.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_popup_history_list.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_popup_history_list.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_alarm_list.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_alarm_list.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_water_drink_list.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_water_drink_list.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_day_calendar.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_day_calendar.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_notification_gcm_normal.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_notification_gcm_normal.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\day.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_water_drink_kind.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_water_drink_kind.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_success.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\dialog_success.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_chart_circle.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_chart_circle.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_notification_alarm.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_notification_alarm.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_marketing_banner.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\dialog_marketing_banner.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_side_navigation.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_side_navigation.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_water_alarm.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\fragment_water_alarm.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_item_text_list.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_item_text_list.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_drink_day.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_drink_day.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sound_kind.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_sound_kind.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_app_close.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\dialog_app_close.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_water_kind_list.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_water_kind_list.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_statistic.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\fragment_statistic.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yourself.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\activity_yourself.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_info.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_statistic_weight_calendar.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\view_statistic_weight_calendar.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_water_sound_select.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\dialog_water_sound_select.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_water_alarm_time.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\dialog_water_alarm_time.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_grid.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\layout\\row_grid.xml"
+    }
+]

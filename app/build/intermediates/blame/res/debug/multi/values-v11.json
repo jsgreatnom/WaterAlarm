@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\values-v11\\themes.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 225
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WaterAlarm</string>
+    
+    <string name="app_folder_name">WaterAlarm</string>
+    
+    <!--20150625 kny072 박지훈팀장요청으로 카카오배너아이디는 고정으로 넣기로함. -->
+    <string name="kakao_banner_id">5293</string>
+    
+    <!-- 메뉴탭 -->
+    <string-array name="tab_menu">
+		<item>Info</item>
+		<item>Drink</item>
+		<item>Stat</item>
+		<item>Clock</item>				
+	</string-array>
+	
+    <!-- 내정보 -->
+    <string name="my_info_sex">Sex</string>
+    <string name="my_info_man">Mr</string>
+    <string name="my_info_woman">Ms</string>
+    <string name="my_info_age">Age</string>
+    <string name="my_info_height">Height</string>
+    <string name="my_info_weight">Now Weight</string>
+    <string name="my_info_goal_weight">Goal Weight</string>
+    <string name="my_info_text_bmi">* Start Daily drink and BMI</string>
+    <string name="my_info_water_result">Go BMI-calc</string>
+    <string name="my_info_toast_age">Enter age</string>
+    <string name="my_info_toast_height">Enter height</string>
+    <string name="my_info_toast_weight">Enter weight</string>
+    <string name="my_info_toast_goal_weight">Enter Goal weight</string>
+    
+    <!-- 내정보 결과-->
+    <string name="my_info_day_goal">DayGoal</string>
+    <string name="my_info_day_avg1">Day avg. is </string>
+    <string name="my_info_day_avg2"> ml.</string>
+    <string name="my_info_bmi_result1">BMI </string>
+    <string name="my_info_bmi_result2"> result</string>
+    <string name="my_info_bmi_text1">Your BMI is </string>
+    <string name="my_info_bmi_text2">! Thus "</string>
+    <string name="my_info_bmi_text3">"</string>
+    <string name="my_info_under">under</string>
+    <string name="my_info_good">good</string>
+    <string name="my_info_over">over</string>
+    <string name="my_info_obese">obese</string>
+    <string name="my_info_fat">fat</string>
+    <string name="my_info_bmi1">* BMI is</string>
+    <string name="my_info_bmi2">Body mass index is a measure of body fat based on height and weight.</string>
+    <string name="my_info_weight_normal">Normal</string>
+    <string name="my_info_weight_over">Over</string>
+    <string name="my_info_weight_beauty">Beauty</string>
+    <string name="my_info_weight_bmr">BMR</string>
+    <string name="my_info_redo">Redo</string>
+    
+    <!-- 물섭취 -->
+    <string name="drink_fragment_text_msg01">Set daily goal in Info</string>
+    <string name="drink_fragment_text_msg02">Today goal is </string>
+    <string name="drink_fragment_text_msg03">.</string>
+    <string name="drink_fragment_text_msg04">※ Rate</string>
+    <string name="drink_fragment_text_msg05">There is no information is registered.</string>
+    <string name="drink_fragment_text_msg06">Done</string>
+    <string name="drink_fragment_text_msg07">DRINK</string>
+    <string name="drink_fragment_text_msg08">Weight</string>
+	<string name="drink_fragment_text_msg08_hint">Weight type</string>	
+	<string name="drink_fragment_toast_msg01">There is no information is registered.</string>
+	<string name="drink_fragment_dialog_msg01">Please enter my information.</string>
+	
+	<!-- 물알람 -->
+    <string name="water_alarm_setting_text1">* Set water reminder. Send NOTI at that time.</string>
+    <string name="water_alarm_setting_text2">(up to 10)</string>
+    <string name="water_alarm_sound_setting_text">Select sound!</string>
+    <string name="water_alarm_am">AM</string>
+    <string name="water_alarm_pm">PM</string>
+    <string name="water_alarm_mon">MON</string>
+    <string name="water_alarm_tue">TUE</string>
+    <string name="water_alarm_wed">WED</string>
+    <string name="water_alarm_thu">THU</string>
+    <string name="water_alarm_fri">FRI</string>
+    <string name="water_alarm_sat">SAT</string>
+    <string name="water_alarm_sun">SUN</string>
+    <string name="water_alarm_sou_vib">Sou. + Vib.</string>
+    <string name="water_alarm_sou">Sound</string>
+    <string name="water_alarm_vib">Vibrate</string>
+    <string name="water_alarm_mute">mute</string>
+    <string name="water_alarm_sound_setting">Setting</string>
+    <string name="water_alarm_sounds">SOUNDS</string>
+    <string name="water_alarm_save">OK</string>
+    <string name="water_alarm_time_setting">Alarm Time Setting</string>
+    <string name="water_alarm_content1">Drink more water!</string>
+    <string name="water_alarm_content2">Had water recently?</string>
+	<string name="water_alarm_content3">How about a cup of water?</string>
+	<string name="water_alarm_content4">How about a cup of water for health?</string>
+	<string name="water_alarm_mp3_file1">Water</string>
+	<string name="water_alarm_mp3_file2">drink water</string>
+	<string name="water_alarm_mp3_file3">Time to have water</string>
+	<string name="water_alarm_mp3_file4">Water sound</string>
+	<string name="water_alarm_mp3_file5">Cool sound of water</string>
+	<string name="water_alarm_volume_text">Volume Control</string>
+	
+    <!-- 물마시기 -->
+    <string name="drink_activity_text_title">DRINK</string>
+    <string name="drink_activity_text_msg01">※ Able to save max 20 cups.</string>
+    <string name="drink_activity_text_msg02">Yourself</string>
+    
+    <!-- 직접 입력 -->
+    <string name="input_activity_text_title">Yourself</string>
+    <string name="input_activity_text_msg01">Select sort!</string>
+    <string name="input_activity_text_msg02">Set volume!</string>
+    <string name="input_activity_text_msg03">Cup</string>
+    <string name="input_activity_text_msg04">Edit cup</string>
+    <string name="input_activity_text_msg05">caffeine&amp;sugar</string>     
+    <string name="input_activity_text_msg06">Can cause 120% dehydration by diuretic drain of sugar and caffeine.</string>
+    <string name="input_activity_text_msg07">Save</string>
+    <string name="input_activity_text_msg08">√ caffeine&amp;sugar</string>
+    
+    <string name="input_activity_dialog_msg01">Able to save max 20 cups.\nAdd a cup after delete the old cup</string>
+    <string name="input_activity_dialog_msg02">Please input the sort.</string>
+    <string name="input_activity_dialog_msg03">Please input the volume.</string>
+    
+    <!-- 히스토리 팝업 -->
+    <string name="drink_fragment_dialog_history_title">Done</string>
+    <string name="drink_fragment_dialog_history_all_delete">Del</string>
+    
+    <!-- 성공 팝업 -->
+    <string name="drink_fragment_dialog_success_title">Success</string>
+    <string name="drink_fragment_dialog_success_msg01">Have a good day!</string>
+    
+    <!-- 섭취량 통계 -->
+    <string name="statistic_fragment_drink_title">Drink</string>
+    <string name="statistic_fragment_drink_text_msg01">Ok</string>
+    <string name="statistic_fragment_drink_text_msg02">Avg</string>    
+    <string name="statistic_fragment_drink_text_msg03">day</string>
+    
+    <!-- 종류별 통계 -->
+    <string name="statistic_fragment_kind_title">Sort</string>
+    <string name="statistic_fragment_kind_drink_log">※ Drink log</string>
+    <string name="statistic_fragment_kind_drink_info">Check all kinds of drunk.\n* Go to Drink munu.</string>
+    
+    <!-- 몸무게 통계 -->
+    <string name="statistic_fragment_weight_title">Weight</string>
+    <string name="statistic_fragment_weight_text_msg01">Now</string>
+    <string name="statistic_fragment_weight_text_msg02">Loss</string>
+    <string name="statistic_fragment_weight_text_msg03">(Day)</string>
+    <string name="statistic_fragment_weight_text_msg04">Goal</string>
+    
+    <!-- 물 종류 -->
+    <string name="water_kind_title">Sort</string>    
+    <string-array name="water_kind_item">
+		<item>Yourself</item>
+		<item>Water</item>
+		<item>Milk</item>
+		<item>tea</item>
+		<item>Coffee</item>
+		<item>Soft</item>
+		<item>Beer</item>
+		<item>※ Caffeine</item>								
+	</string-array>
+	
+    <!-- 물 ICON -->
+    <string name="water_icon_title">Icon</string>
+    <string-array name="water_icon_item">
+        <item>Water</item>
+		<item>Milk pack</item>
+		<item>Coffee cup</item>
+		<item>Cans</item>
+		<item>Mug</item>
+		<item>Tumbler</item>
+		<item>Stein</item>
+		<item>PET</item>
+		<item>Bottle</item>	
+	</string-array>
+    
+    <!-- 퀵메뉴  -->
+    <string name="side_navigation_layout_text_settings">Settings</string>
+    <string name="side_navigation_layout_text_close">Close</string>
+    <string name="side_navigation_layout_text_ml_or_oz">ml or oz</string>
+    <string name="side_navigation_layout_text_kg_or_lb">kg or lb</string>
+    <string name="side_navigation_layout_text_language">language</string>
+    <string name="side_navigation_layout_text_reset">reset</string>
+    <string name="side_navigation_layout_text_share">share</string>
+    <string name="side_navigation_layout_kakaotalk_share">Drink-habit to take it easy. Manage in %s</string>
+    <string name="side_navigation_layout_kakaotalk_share_url">https://goo.gl/rSGDTv</string>
+    
+    <string name="dialog_setting_text_water_set_title">Water Set</string>
+    <string name="dialog_setting_text_weight_set_title">Weight Set</string>
+    <string name="dialog_setting_text_language_set_title">Language</string>
+    <string name="dialog_setting_text_reset_set_title">Reset</string>
+    
+    <!-- 물 단위 설정 -->
+    <string-array name="water_set_item">
+		<item>mili(ml)</item>
+		<item>ounce(oz)</item>						
+	</string-array>
+	
+    <!-- 물 단위 코드 -->
+    <string-array name="water_set_code">
+		<item>ml</item>
+		<item>oz</item>						
+	</string-array>
+	
+    <!-- 몸무게 단위 설정 -->
+    <string-array name="weight_set_item">
+		<item>kilo(kg)</item>
+		<item>pound(lb)</item>						
+	</string-array>
+	
+    <!-- 몸무게 단위 코드 -->
+    <string-array name="weight_set_code">
+		<item>kg</item>
+		<item>lb</item>						
+	</string-array>
+	
+    <!-- 언어 설정 -->
+    <string-array name="language_set_item">
+		<item>Kor.</item>
+		<item>Eng.</item>						
+	</string-array>
+	
+    <!-- 언어 코드 -->
+    <string-array name="language_set_code">
+		<item>ko</item>
+		<item>en</item>						
+	</string-array>
+	
+    <!-- 초기화(다른설정과 동일하게하기위해 Array로 했음 -->
+    <string-array name="reset_set_item">
+		<item>\nReset all?\nInfo, Water, Diary, Stat etc.\n\n</item>								
+	</string-array>
+	
+    
+    
+    
+    <!-- 공통 -->    
+    <string name="common_delete_msg">Delete?</string>
+    <string name="common_delete_ok">YES</string>
+    <string name="common_delete_cancle">NO</string>
+    <string name="common_all_delete_msg">Delete all?</string>
+    <string name="common_ok">OK</string>
+    <string name="common_cancle">NO</string>
+    <string name="common_close">Close</string>
+    <string name="common_info">Information</string>
+    <string name="common_end">end</string>
+    <string name="common_do_not_open_today">Do not open today</string>
+    
+    <!-- 토스트 메세지 -->
+	<string name="message_app_not_externalstoragestate">"External storage device do not exist.\n"</string>
+    <string name="message_network_error">Network error has occurred.\nPlease use later.</string>
+    <string name="message_app_marketgo">Run the app.</string>
+    <string name="message_move_market_detail">Go to Market.</string>
+    <string name="message_more_backkey_finish">\'back\'Pressing the button will terminate once more.</string>
+    <string name="message_age_input">Enter age</string>
+	<string name="message_height_input">Enter height</string>
+	<string name="message_weight_input">Enter weight</string>
+	<string name="message_goal_weight_input">Enter Goal weight</string>
+	<string name="message_weekday_setting">Please set the day</string>
+</resources>

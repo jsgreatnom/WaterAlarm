@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\selector_btn_drink_text_color.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\color\\selector_btn_drink_text_color.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\selector_statistic_tab_text_color.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\color\\selector_statistic_tab_text_color.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\selector_menu_color.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\color\\selector_menu_color.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\color\\wallet_primary_text_holo_light.xml"
+    }
+]

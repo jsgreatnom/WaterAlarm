@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:background="#ffffff" >
+    
+    <TextView 
+        android:id="@+id/setting_text"
+        android:layout_width="match_parent"
+        android:layout_height="39dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:tag="water_alarm_sound_setting"
+        android:text="@string/water_alarm_sound_setting"
+        android:textColor="#000000"/>
+    <ImageView
+        android:id="@+id/setting_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/btn_close_on"
+        />
+    <Button 
+        android:id="@+id/sound_vibrate_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/setting_text"
+        android:tag="water_alarm_sou_vib"
+        android:text="@string/water_alarm_sou_vib"/>
+    <Button
+        android:id="@+id/sound_button" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/sound_vibrate_button"
+        android:tag="water_alarm_sou"
+        android:text="@string/water_alarm_sou"/>
+    <Button 
+        android:id="@+id/vibrate_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/sound_button"
+        android:tag="water_alarm_vib"
+        android:text="@string/water_alarm_vib"/>
+    <Button 
+        android:id="@+id/mute_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/vibrate_button"
+        android:tag="water_alarm_mute"
+        android:text="@string/water_alarm_mute"/>
+    
+
+</RelativeLayout>

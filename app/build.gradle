@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.power.water15"
+        minSdkVersion 9
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.google.code.gson:gson:1.7.1'
+    compile 'com.google.android.gms:play-services:6.5.87'
+    compile files('libs/AdamPublisherSDK-2.3.4.jar')
+    compile files('libs/adlibr.4.2.5.0.jar')
+    compile files('libs/android-query.0.24.3.jar')
+    compile files('libs/SyrupAdSDK_3.11.0.jar')
+    compile files('libs/UrQA-Client_0.98.jar')
+}

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_close.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_btn_close.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_selector_list.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\gridview_selector_list.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_btn_setup.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_top_btn_setup.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_radio_btn.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_radio_btn.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_side_click_color.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_side_click_color.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_bottom_click_color.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_btn_bottom_click_color.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_drink.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\progressbar_drink.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_item_border.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\gridview_item_border.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_btn_before.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_top_btn_before.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_today_check.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_btn_today_check.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check_box.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_check_box.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_popup_bottom.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_popup_bottom.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\padding_selector.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\padding_selector.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_radius_bg.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\popup_radius_bg.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_statistic_tab_radius_bg.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_statistic_tab_radius_bg.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_ok.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_btn_ok.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_popup_btn_all_del.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_popup_btn_all_del.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_menu_line.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_tab_menu_line.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\statistic_tab_radius_bg_off.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\statistic_tab_radius_bg_off.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_drink.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_btn_drink.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check_box_yourself.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\selector_check_box_yourself.xml"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\statistic_tab_radius_bg_on.xml",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\drawable\\statistic_tab_radius_bg_on.xml"
+    }
+]

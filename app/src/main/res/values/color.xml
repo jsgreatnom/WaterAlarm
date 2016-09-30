@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="home_top_bg">#4c5c70</color>
+    
+    <!-- side list click color -->
+    <color name="side_click_color_off">#444444</color>
+    <color name="side_click_color_on">#666666</color>
+    
+    <!-- btn_bottom click color -->
+    <color name="btn_bottom_click_color_off">#a4b4bb</color>
+    <color name="btn_bottom_click_color_on">#b0b4bb</color>
+    
+    <!-- 그리드 divider 색상 -->
+    <color name="list_divider">#c6c7c6</color>
+    
+    
+    <!-- alarm clock on/off color -->
+    <color name="alarm_on_clock_text">#3a9bc3</color>
+    <color name="alarm_on_date_text">#6bbcdd</color>
+    <color name="alarm_off_date_text">#bbbcbd</color>
+   
+    
+    
+</resources>
+
+
+

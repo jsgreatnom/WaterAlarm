@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="language_set_code">
+		<item>ko</item>
+		<item>en</item>						
+	</string-array>
+    <string-array name="language_set_item">
+		<item>한국어</item>
+		<item>영어</item>						
+	</string-array>
+    <string-array name="reset_set_item">
+		<item>\n내정보 물설취, 다이어리, 통계등\n모든 정보를 초기화 하시겠습니까?\n\n</item>								
+	</string-array>
+    <string-array name="tab_menu">
+		<item>내정보</item>
+		<item>물섭취</item>
+		<item>통계</item>
+		<item>물알람</item>				
+	</string-array>
+    <string-array name="water_icon_item">
+        <item>물</item>
+		<item>우유팩</item>
+		<item>커피잔</item>
+		<item>캔</item>
+		<item>머그잔</item>
+		<item>텀블러</item>
+		<item>맥주잔</item>
+		<item>페트</item>
+		<item>보틀</item>								
+	</string-array>
+    <string-array name="water_kind_item">
+		<item>직접입력</item>
+		<item>물</item>
+		<item>우유</item>
+		<item>차</item>
+		<item>커피</item>
+		<item>음료</item>
+		<item>주류</item>
+		<item>※ 카페인 섭취량</item>								
+	</string-array>
+    <string-array name="water_set_code">
+		<item>ml</item>
+		<item>oz</item>						
+	</string-array>
+    <string-array name="water_set_item">
+		<item>밀리리터(ml)</item>
+		<item>온스(oz)</item>						
+	</string-array>
+    <string-array name="weight_set_code">
+		<item>kg</item>
+		<item>lb</item>						
+	</string-array>
+    <string-array name="weight_set_item">
+		<item>킬로그램(kg)</item>
+		<item>파운드(lb)</item>						
+	</string-array>
+    <string name="app_folder_name">WaterAlarm</string>
+    <string name="app_name">물알람</string>
+    <string name="common_all_delete_msg">전체 삭제하시겠습니까?</string>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Android Wear 앱에 대한 업데이트가 필요한 애플리케이션이 있습니다."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Android Wear 앱을 업데이트해야만 이 앱이 실행됩니다."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wear 업데이트"</string>
+    <string name="common_cancle">취소</string>
+    <string name="common_close">닫기</string>
+    <string name="common_delete_cancle">취소</string>
+    <string name="common_delete_msg">삭제하시겠습니까?</string>
+    <string name="common_delete_ok">확인</string>
+    <string name="common_do_not_open_today">오늘 하루 열지 않기</string>
+    <string name="common_end">종료</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Google Play 서비스 사용"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Google Play 서비스를 사용하도록 설정해야 이 앱이 작동합니다."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Google Play 서비스 사용"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 요청"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Google Play 서비스 설치"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"휴대전화에 Google Play 서비스가 설치되어 있어야 이 앱이 실행됩니다."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"태블릿에 Google Play 서비스가 설치되어 있어야 이 앱이 실행됩니다."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Google Play 서비스 설치"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"지정한 계정이 이 기기에 존재하지 않습니다. 다른 계정을 선택하세요."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"올바르지 않은 계정"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Google Play 서비스를 사용 설정해야 하는 애플리케이션입니다."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Google Play 서비스에 연결하려면 데이터 연결이 필요합니다."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"네트워크 오류"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Google Play 서비스를 설치해야 하는 애플리케이션입니다."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Google Play 서비스를 업데이트해야 하는 애플리케이션입니다."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play 서비스 오류"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play 서비스에 알 수 없는 문제가 발생했습니다."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"일부 사용자 애플리케이션에 필요한 Google Play 서비스가 사용자 기기에서 지원되지 않습니다. 기기 제조업체에 문의하시기 바랍니다."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play 서비스"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"업데이트"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Google Play 서비스를 업데이트해야만 이 앱이 실행됩니다."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Google Play 서비스 업데이트"</string>
+    <string name="common_info">안내</string>
+    <string name="common_ok">확인</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"휴대전화에서 열기"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"로그인"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Google 계정으로 로그인"</string>
+    <string name="dialog_setting_text_language_set_title">언어 선택</string>
+    <string name="dialog_setting_text_reset_set_title">초기화</string>
+    <string name="dialog_setting_text_water_set_title">물 단위 설정</string>
+    <string name="dialog_setting_text_weight_set_title">몸무게 단위 설정</string>
+    <string name="drink_activity_text_msg01">※ 컵 사이즈는 최대 20개까지 저장 가능합니다.</string>
+    <string name="drink_activity_text_msg02">사이즈 직접 입력</string>
+    <string name="drink_activity_text_title">물마시기</string>
+    <string name="drink_fragment_dialog_history_all_delete">전체삭제</string>
+    <string name="drink_fragment_dialog_history_title">히스토리</string>
+    <string name="drink_fragment_dialog_msg01">내정보를 입력해주세요.</string>
+    <string name="drink_fragment_dialog_success_msg01">오늘도 건강한 하루 되세요!</string>
+    <string name="drink_fragment_dialog_success_title">목표 달성</string>
+    <string name="drink_fragment_text_msg01">내정보에서 하루동안 마셔야하는 물의양을 설정해주세요!</string>
+    <string name="drink_fragment_text_msg02">오늘 마셔야하는 물의양은 </string>
+    <string name="drink_fragment_text_msg03">입니다.</string>
+    <string name="drink_fragment_text_msg04">※ 물섭취 비율</string>
+    <string name="drink_fragment_text_msg05">등록된 정보가 없습니다.</string>
+    <string name="drink_fragment_text_msg06">히스토리</string>
+    <string name="drink_fragment_text_msg07">물마시기</string>
+    <string name="drink_fragment_text_msg08">몸무게</string>
+    <string name="drink_fragment_text_msg08_hint">몸무게 입력</string>
+    <string name="drink_fragment_toast_msg01">등록 된 물섭취 히스토리가 없습니다.</string>
+    <string name="input_activity_dialog_msg01">컵사이즈는 최대20개까지저장가능합니다.\n기존에 등록된 컵사이즈를 삭제하고 다시 등록해주세요.</string>
+    <string name="input_activity_dialog_msg02">종류를 입력해주세요.</string>
+    <string name="input_activity_dialog_msg03">양을 입력해주세요.</string>
+    <string name="input_activity_text_msg01">종류를 선택해주세요!</string>
+    <string name="input_activity_text_msg02">양을 설정해주세요!</string>
+    <string name="input_activity_text_msg03">컵 아이콘</string>
+    <string name="input_activity_text_msg04">컵 아이콘을 선택해주세요.</string>
+    <string name="input_activity_text_msg05">카페인&amp;당분</string>
+    <string name="input_activity_text_msg06">카페인과 당분의 이뇨작용으로 인해 섭취한 수분의 120%를 배출하여, 탈수 증산의 원인이 될 수 있습니다.</string>
+    <string name="input_activity_text_msg07">저장</string>
+    <string name="input_activity_text_msg08">√ 카페인&amp;당분</string>
+    <string name="input_activity_text_title">직접입력</string>
+    <string name="kakao_banner_id">5293</string>
+    <string name="message_age_input">연령을 입력해주세요.</string>
+    <string name="message_app_marketgo">앱을 실행합니다.</string>
+    <string name="message_app_not_externalstoragestate">"외부 저장 장치가 존재하지 않습니다.\n외부 저장 장치가 없는 경우 이용하실 수 없습니다.\n"</string>
+    <string name="message_goal_weight_input">목표 몸무게를 입력해주세요.</string>
+    <string name="message_height_input">키를 입력해주세요.</string>
+    <string name="message_more_backkey_finish">\'뒤로\'버튼을 한번 더 누르시면 종료됩니다.</string>
+    <string name="message_move_market_detail">마켓으로 이동합니다.</string>
+    <string name="message_network_error">네트워크 오류가 발생하였습니다\n잠시 후 이용해 주세요.</string>
+    <string name="message_weekday_setting">요일을 설정해주세요.</string>
+    <string name="message_weight_input">몸무게를 입력해주세요.</string>
+    <string name="my_info_age">연령</string>
+    <string name="my_info_bmi1">* 비만도 측정(BMI)이란</string>
+    <string name="my_info_bmi2">나이, 신장(cm)과 체중(kg)만으로 비만을 판정하는 비만 지수</string>
+    <string name="my_info_bmi_result1">비만도(BMI)</string>
+    <string name="my_info_bmi_result2"> 검사 결과</string>
+    <string name="my_info_bmi_text1">당신의 비만도(BMI) 지수는 </string>
+    <string name="my_info_bmi_text2"> (으)로  </string>
+    <string name="my_info_bmi_text3"> 입니다.</string>
+    <string name="my_info_day_avg1">하루 동안 마셔야 하는 적정 섭취량은 </string>
+    <string name="my_info_day_avg2"> 입니다.</string>
+    <string name="my_info_day_goal">일일 목표량</string>
+    <string name="my_info_fat">고도비만</string>
+    <string name="my_info_goal_weight">목표 몸무게</string>
+    <string name="my_info_good">정상</string>
+    <string name="my_info_height">키</string>
+    <string name="my_info_man">남자</string>
+    <string name="my_info_obese">비만</string>
+    <string name="my_info_over">과체중</string>
+    <string name="my_info_redo">다시하기</string>
+    <string name="my_info_sex">성별</string>
+    <string name="my_info_text_bmi">* 하루 동안 마셔야 하는 물의 양과 비만도 측정(BMI)을 해드립니다.</string>
+    <string name="my_info_toast_age">연령을 입력해주세요.</string>
+    <string name="my_info_toast_goal_weight">목표 몸무게를 입력해주세요.</string>
+    <string name="my_info_toast_height">키를 입력해주세요.</string>
+    <string name="my_info_toast_weight">몸무게를 입력해주세요.</string>
+    <string name="my_info_under">저체중</string>
+    <string name="my_info_water_result">물 섭취량 확인하기</string>
+    <string name="my_info_weight">몸무게</string>
+    <string name="my_info_weight_beauty">미용체중</string>
+    <string name="my_info_weight_bmr">기초대사량</string>
+    <string name="my_info_weight_normal">적정체중</string>
+    <string name="my_info_weight_over">체중조절</string>
+    <string name="my_info_woman">여자</string>
+    <string name="side_navigation_layout_kakaotalk_share">마음을 가볍게 해줄 물 마시기 습관, "%s"에서 관리하세요!</string>
+    <string name="side_navigation_layout_kakaotalk_share_url">https://goo.gl/rSGDTv</string>
+    <string name="side_navigation_layout_text_close">닫기</string>
+    <string name="side_navigation_layout_text_kg_or_lb">몸무게 단위 설정</string>
+    <string name="side_navigation_layout_text_language">언어 선택</string>
+    <string name="side_navigation_layout_text_ml_or_oz">물 단위 설정</string>
+    <string name="side_navigation_layout_text_reset">초기화</string>
+    <string name="side_navigation_layout_text_settings">설정</string>
+    <string name="side_navigation_layout_text_share">공유하기</string>
+    <string name="statistic_fragment_drink_text_msg01">물 섭취 성공일</string>
+    <string name="statistic_fragment_drink_text_msg02">평균 물 섭취량</string>
+    <string name="statistic_fragment_drink_text_msg03">일</string>
+    <string name="statistic_fragment_drink_title">섭취량통계</string>
+    <string name="statistic_fragment_kind_drink_info">마신 물에 대한 종류별 섭취 통계 알려드립니다.\n* 물섭취 메뉴에서 물을 마셔주세요.</string>
+    <string name="statistic_fragment_kind_drink_log">※ 종류별 섭취 통계</string>
+    <string name="statistic_fragment_kind_title">종류별통계</string>
+    <string name="statistic_fragment_weight_text_msg01">현재 몸무게</string>
+    <string name="statistic_fragment_weight_text_msg02">이달의 감량</string>
+    <string name="statistic_fragment_weight_text_msg03">(일)</string>
+    <string name="statistic_fragment_weight_text_msg04">목표 몸무계</string>
+    <string name="statistic_fragment_weight_title">몸무게통계</string>
+    <string name="water_alarm_am">오전</string>
+    <string name="water_alarm_content1">물 더 많이 마셔요.</string>
+    <string name="water_alarm_content2">최근에 물 마셨어요?</string>
+    <string name="water_alarm_content3">물 한잔의 여유 어떠세요?</string>
+    <string name="water_alarm_content4">지금은 건강을 위해서 물 한잔 어떠세요?</string>
+    <string name="water_alarm_fri">금</string>
+    <string name="water_alarm_mon">월</string>
+    <string name="water_alarm_mp3_file1">Water</string>
+    <string name="water_alarm_mp3_file2">물 드세요</string>
+    <string name="water_alarm_mp3_file3">물 드실 시간입니다.</string>
+    <string name="water_alarm_mp3_file4">물 흐르는 소리</string>
+    <string name="water_alarm_mp3_file5">시원한 물소리</string>
+    <string name="water_alarm_mute">무음</string>
+    <string name="water_alarm_pm">오후</string>
+    <string name="water_alarm_sat">토</string>
+    <string name="water_alarm_save">저장</string>
+    <string name="water_alarm_setting_text1">* 물 알람을 설정하세요. 해당 시간에 알림을 보내드립니다.</string>
+    <string name="water_alarm_setting_text2">(최대 10개까지 설정 가능합니다.)</string>
+    <string name="water_alarm_sou">소리</string>
+    <string name="water_alarm_sou_vib">소리 + 진동</string>
+    <string name="water_alarm_sound_setting">설정</string>
+    <string name="water_alarm_sound_setting_text">알림음을 설정해 주세요!</string>
+    <string name="water_alarm_sounds">알림음 설정</string>
+    <string name="water_alarm_sun">일</string>
+    <string name="water_alarm_thu">목</string>
+    <string name="water_alarm_time_setting">알람시간 설정</string>
+    <string name="water_alarm_tue">화</string>
+    <string name="water_alarm_vib">진동</string>
+    <string name="water_alarm_volume_text">볼륨 조절</string>
+    <string name="water_alarm_wed">수</string>
+    <string name="water_icon_title">아이콘</string>
+    <string name="water_kind_title">종류</string>
+</resources>

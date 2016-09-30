@@ -1,0 +1,167 @@
+<com.dev.team.ui.CustomDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dl_activity_main_drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+    tools:context="com.dev.team.activity.MainFragmentActivity" >
+
+    <!-- 주 컨텐츠 영역 -->
+
+    <RelativeLayout
+        android:id="@+id/content_body_frame_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:background="#ffffff">
+
+        <RelativeLayout
+            android:id="@+id/activity_home_top_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="39dp"
+            android:background="#47aed9" >
+
+            <TextView
+                android:id="@+id/activity_home_top_title_textview"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:singleLine="true"
+                android:tag="app_name"
+                android:text="@string/app_name"
+                android:textColor="#ffffff"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/btn_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/selector_top_btn_setup" />
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/top_layout_line"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@+id/activity_home_top_layout"
+            android:background="#3d88af" />
+
+        <ImageView
+            android:id="@+id/tab_layout_line"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@+id/top_layout_line"
+            android:background="#76c3e3" />
+
+        <android.support.v4.app.FragmentTabHost
+            android:id="@android:id/tabhost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tab_layout_line"
+            android:layout_above="@+id/layout_adview"
+            android:background="#47aed9" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="39dp"
+                    android:layout_alignParentTop="true"
+                    android:divider="@null" />
+
+                <ImageView
+                    android:id="@+id/main_divide_line"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_below="@android:id/tabs"
+                    android:background="#3b9ec7" />
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_below="@+id/main_divide_line" />
+            </RelativeLayout>
+        </android.support.v4.app.FragmentTabHost>
+
+        <!-- 인트로 전면 배너 -->
+
+        <RelativeLayout
+            android:id="@+id/intro_full_banner_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:visibility="gone" >
+
+            <ImageView
+                android:id="@+id/intro_full_banner"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:scaleType="fitXY" />
+
+            <ImageView
+                android:id="@+id/intro_full_banner_close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@+id/intro_full_banner"
+                android:background="@drawable/ad_close" />
+        </RelativeLayout>
+
+        <!-- 인트로 전면 배너 -->
+
+
+        <!-- 인트로 하단 배너 -->
+
+        <RelativeLayout
+            android:id="@+id/intro_bottom_banner_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="50dp"
+            android:visibility="gone" >
+
+            <ImageView
+                android:id="@+id/intro_bottom_banner"
+                android:layout_width="fill_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="bottom"
+                android:scaleType="fitXY" />
+
+            <ImageView
+                android:id="@+id/intro_bottom_banner_close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@+id/intro_bottom_banner"
+                android:background="@drawable/ad_close" />
+        </RelativeLayout>
+        <!-- adlib ad Area -->
+
+        <com.mocoplex.adlib.AdlibAdViewContainer
+            android:id="@+id/layout_adview"            
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"            
+            android:layout_alignParentBottom="true"
+            isDefaultBanner="true" />
+
+        <!-- 인트로 하단 배너 -->
+
+    </RelativeLayout>
+    <!-- 주컨텐츠 영역 -->
+
+
+    <!-- 사이드 네비게이션 레이아웃 DrawerLayout -->
+
+    <com.dev.team.ui.SideNavigationLayout
+        android:id="@+id/side_navigation_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="start" />
+
+    <!-- 사이드 네비게이션 레이아웃 DrawerLayout -->
+
+</com.dev.team.ui.CustomDrawerLayout>

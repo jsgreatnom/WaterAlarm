@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\raw\\water_alarm_mp3_file5.mp3",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\raw\\water_alarm_mp3_file5.mp3"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\raw\\water_alarm_mp3_file2.mp3",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\raw\\water_alarm_mp3_file2.mp3"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\raw\\water_alarm_mp3_file1.mp3",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\raw\\water_alarm_mp3_file1.mp3"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\raw\\water_alarm_mp3_file4.mp3",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\raw\\water_alarm_mp3_file4.mp3"
+    },
+    {
+        "merged": "D:\\Working\\WaterAlarm\\app\\build\\intermediates\\res\\merged\\debug\\raw\\water_alarm_mp3_file3.mp3",
+        "source": "D:\\Working\\WaterAlarm\\app\\src\\main\\res\\raw\\water_alarm_mp3_file3.mp3"
+    }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    
+    <ImageView 
+        android:id="@+id/noti_icon"
+        android:layout_width="58dp"
+        android:layout_height="54.5dp"
+        android:background="@drawable/list_cup_ico_cup"/>
+
+    <RelativeLayout
+        android:id="@+id/noti_text_layout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" >
+
+        <TextView
+            android:id="@+id/noti_app_name"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:gravity="left|center"
+            android:tag="app_name"
+            android:text="@string/app_name" />
+
+        <TextView
+            android:id="@+id/noti_time"
+            android:layout_width="wrap_content"
+            android:layout_height="27.5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="top"
+            android:layout_alignRight="@+id/noti_app_name"
+            android:tag="water_alarm_pm"
+            android:text="@string/water_alarm_pm" />
+        
+        <TextView
+            android:id="@+id/noti_text"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_below="@+id/noti_app_name"
+            android:tag="water_alarm_content1"
+            android:text="@string/water_alarm_content1" />
+    </RelativeLayout>
+
+</LinearLayout>

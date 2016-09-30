@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView 
+        android:id="@+id/close_banner_image"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"/>
+   <!--  <GridView
+        android:id="@+id/gridview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:listSelector="@drawable/padding_selector"
+        android:numColumns="1" /> -->
+
+    <LinearLayout
+        android:id="@+id/dialog_payment_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/close_banner_image"
+        android:background="@drawable/banner_bg2"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_close"
+            android:layout_width="141.5dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6.5dp"
+            android:tag="common_end"
+            android:text="@string/common_end"
+            android:background="@drawable/btn_end" />
+
+        <Button
+            android:id="@+id/btn_cancle"
+            android:layout_width="141.5dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6.5dp"
+            android:layout_marginTop="6.5dp"
+            android:tag="common_cancle"
+            android:text="@string/common_cancle"
+            android:background="@drawable/btn_cancel" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="271.5dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/popup_top_bg" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="18dp"                
+                android:singleLine="true"
+                android:text="@string/drink_fragment_dialog_history_title"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/btn_delete"
+                android:layout_width="66dp"
+                android:layout_height="28dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="@string/drink_fragment_dialog_history_all_delete"
+                android:textSize="13sp"
+                android:textColor="#ffffff"
+                android:background="@drawable/selector_popup_btn_all_del" />
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/listview"
+            android:layout_width="fill_parent"
+            android:layout_height="225dp"            
+            android:background="#ffffff"
+            android:cacheColorHint="#00000000"
+            android:listSelector="@android:color/transparent"
+            android:divider="#cdcdcd"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:minHeight="136dp" />
+
+        
+        <Button
+            android:id="@+id/btn_close"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/selector_popup_bottom"
+            android:padding="15dp"
+            android:text="@string/common_ok"
+            android:tag="common_ok"
+            android:textColor="#3b3b3b"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</RelativeLayout>

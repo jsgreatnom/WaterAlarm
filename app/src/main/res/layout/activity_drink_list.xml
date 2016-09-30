@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <!-- 주 컨텐츠 영역 -->
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="39dp"
+        android:background="#47aed9" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:singleLine="true"
+            android:tag="drink_activity_text_title"
+            android:text="@string/drink_activity_text_title"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/selector_top_btn_before" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:gravity="center"
+        android:singleLine="true"
+        android:tag="drink_activity_text_msg01"
+        android:text="@string/drink_activity_text_msg01"
+        android:textColor="#ff3a4d"
+        android:textSize="14sp" />
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="6dp"
+        android:layout_weight="1"
+        android:cacheColorHint="#00000000"
+        android:divider="#cdcdcd"
+        android:dividerHeight="1px"
+        android:fadingEdge="none" />
+
+    <Button
+        android:id="@+id/btn_yourself"
+        android:layout_width="fill_parent"
+        android:layout_height="47.5dp"
+        android:background="@drawable/selector_btn_bottom_click_color"
+        android:text="@string/drink_activity_text_msg02"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+</LinearLayout>

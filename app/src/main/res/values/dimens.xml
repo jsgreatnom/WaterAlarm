@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <!-- The default gap between components in a layout. -->
+    <dimen name="default_gap">16dip</dimen>
+    
+    <dimen name="dialog_setting_list_text_default">12sp</dimen>
+    <dimen name="dialog_setting_list_text_reset">10sp</dimen>
+    
+    <dimen name="chart_poygonalline_day_text_size">13sp</dimen>
+    <dimen name="chart_poygonalline_goal_text_size">16sp</dimen>
+    <dimen name="chart_poygonalline_point_text_size">10sp</dimen>
+    <dimen name="chart_poygonalline_point_size">3dp</dimen>
+    
+    <dimen name="chart_date_box_y_offset">4.5dp</dimen>
+    
+
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="250.5dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/popup_bg"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" 
+        android:paddingTop="16.5dp"
+        android:paddingBottom="16.5dp">
+
+        <RelativeLayout
+            android:layout_width="196dp"
+            android:layout_height="124.5dp"
+            android:background="@drawable/popup_success_img" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="55dp"
+                android:singleLine="true"
+                android:text="@string/drink_fragment_dialog_success_title"
+                android:textColor="#fff60c"
+                android:textSize="22sp" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:singleLine="true"
+            android:text="@string/drink_fragment_dialog_success_msg01"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_close"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/selector_btn_ok"
+            android:padding="15dp"
+            android:tag="common_ok"
+            android:text="@string/common_ok"
+            android:textColor="#3b3b3b"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</RelativeLayout>

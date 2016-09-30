@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#444444"
+    android:orientation="vertical" 
+    >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="39dp"
+        android:background="#47aed9" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:singleLine="true"
+            android:tag="side_navigation_layout_text_settings"
+            android:text="@string/side_navigation_layout_text_settings"
+            android:textColor="#ffffff"
+            android:textSize="19sp" />
+
+        <Button
+            android:id="@+id/btn_close"
+            android:layout_width="30dp"
+            android:layout_height="27dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="5dp"            
+            android:textSize="12sp" 
+            android:background="@drawable/selector_btn_close"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_menu_water_type"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_side_click_color"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:tag="side_navigation_layout_text_ml_or_oz"
+        android:text="@string/side_navigation_layout_text_ml_or_oz"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#55eeffff" />
+
+    <Button
+        android:id="@+id/btn_menu_weight_type"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_side_click_color"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:tag="side_navigation_layout_text_kg_or_lb"
+        android:text="@string/side_navigation_layout_text_kg_or_lb"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#55eeffff" />
+
+    <Button
+        android:id="@+id/btn_menu_language"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_side_click_color"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:tag="side_navigation_layout_text_language"
+        android:text="@string/side_navigation_layout_text_language"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#55eeffff" />
+
+    <Button
+        android:id="@+id/btn_menu_reset"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_side_click_color"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:tag="side_navigation_layout_text_reset"
+        android:text="@string/side_navigation_layout_text_reset"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#55eeffff" />
+
+    <Button
+        android:id="@+id/btn_menu_share"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_side_click_color"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:tag="side_navigation_layout_text_share"
+        android:text="@string/side_navigation_layout_text_share"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#55eeffff" />
+
+</LinearLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e9ebe6"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="13dp"
+        android:tag="water_alarm_setting_text1"
+        android:text="@string/water_alarm_setting_text1"
+        android:textColor="#686868"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:tag="water_alarm_setting_text2"
+        android:text="@string/water_alarm_setting_text2"
+        android:textColor="#686868"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:id="@+id/layout_sound_select"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/alarm_setup_bg_off"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/alarm_select_button"
+            android:layout_width="86dp"
+            android:layout_height="31dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/alarm_setup_tit_bg"
+            android:gravity="center"
+            android:tag="water_alarm_sou_vib"
+            android:text="@string/water_alarm_sou_vib"
+            android:textColor="#47aed9"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/text_sound_select"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:singleLine="true"
+            android:tag="water_alarm_sound_setting_text"
+            android:text="@string/water_alarm_sound_setting_text"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8.5dp"
+            android:background="@drawable/alarm_arrow_next" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/alarm_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="13dp" >
+    </ListView>
+
+</LinearLayout>

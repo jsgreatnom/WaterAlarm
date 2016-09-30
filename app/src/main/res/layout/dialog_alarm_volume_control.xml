@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginLeft="20dp" 
+    android:layout_marginRight="20dp"
+	android:orientation="vertical"
+    android:background="#ffffff"
+    >
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:tag="water_alarm_volume_text"
+        android:text="@string/water_alarm_volume_text"
+        android:textColor="#000000"
+        />
+    
+    <SeekBar
+        android:id="@+id/volume_bar"
+        style="@+android:style/Widget.Holo.SeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:soundEffectsEnabled="false"
+        android:padding="20dp"
+        />
+
+    <Button
+        android:id="@+id/ok_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:tag="common_ok"
+        android:text="@string/common_ok"
+        />
+
+</LinearLayout>
